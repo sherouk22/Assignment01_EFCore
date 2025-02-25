@@ -10,5 +10,6 @@ namespace Assignment_01_EFCore.Models
     {
         public int MyProperty { get; set; }
 
+
     }
 }
